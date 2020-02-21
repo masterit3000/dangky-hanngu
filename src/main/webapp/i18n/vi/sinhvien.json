@@ -1,0 +1,32 @@
+{
+  "dangkythitienghanApp": {
+    "sinhvien": {
+      "home": {
+        "title": "Sinhviens",
+        "createLabel": "Thêm mới một Sinhvien",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Sinhvien",
+        "notFound": "No Sinhviens found"
+      },
+      "created": "Một Sinhvien mới được tạo với định danh {{ param }}",
+      "updated": "Một Sinhvien cập nhật với định danh {{ param }}",
+      "deleted": "Một Sinhvien đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Sinhvien {{ id }}?"
+      },
+      "detail": {
+        "title": "Sinhvien"
+      },
+      "alevel": "Alevel",
+      "imgidx": "Imgidx",
+      "uadd": "Uadd",
+      "ubirth0": "Ubirth 0",
+      "ubirth1": "Ubirth 1",
+      "ubirth2": "Ubirth 2",
+      "uemail0": "Uemail 0",
+      "uemail1": "Uemail 1",
+      "uhp": "Uhp",
+      "ujob": "Ujob",
+      "ukname": "Ukname"
+    }
+  }
+}
