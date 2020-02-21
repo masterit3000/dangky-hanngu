@@ -45,6 +45,7 @@ public class CacheConfiguration {
             createCache(cm, com.dangky.hanngu.domain.User.class.getName());
             createCache(cm, com.dangky.hanngu.domain.Authority.class.getName());
             createCache(cm, com.dangky.hanngu.domain.User.class.getName() + ".authorities");
+            createCache(cm, com.dangky.hanngu.domain.Sinhvien.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }

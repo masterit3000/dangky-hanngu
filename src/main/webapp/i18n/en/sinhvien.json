@@ -1,0 +1,32 @@
+{
+  "dangkythitienghanApp": {
+    "sinhvien": {
+      "home": {
+        "title": "Sinhviens",
+        "createLabel": "Create a new Sinhvien",
+        "createOrEditLabel": "Create or edit a Sinhvien",
+        "notFound": "No Sinhviens found"
+      },
+      "created": "A new Sinhvien is created with identifier {{ param }}",
+      "updated": "A Sinhvien is updated with identifier {{ param }}",
+      "deleted": "A Sinhvien is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Sinhvien {{ id }}?"
+      },
+      "detail": {
+        "title": "Sinhvien"
+      },
+      "alevel": "Alevel",
+      "imgidx": "Imgidx",
+      "uadd": "Uadd",
+      "ubirth0": "Ubirth 0",
+      "ubirth1": "Ubirth 1",
+      "ubirth2": "Ubirth 2",
+      "uemail0": "Uemail 0",
+      "uemail1": "Uemail 1",
+      "uhp": "Uhp",
+      "ujob": "Ujob",
+      "ukname": "Ukname"
+    }
+  }
+}
